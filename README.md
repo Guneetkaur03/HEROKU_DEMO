@@ -17,4 +17,4 @@ Saved model was loaded and prediction was made on the flask app.
 ### STEP 4: HEROKU APP DEPLOYMENT
 This was my first app deployment on Heroku and it is super easy to deploy your flask app on heroku which is a platform as a service.
 
-##### HAPPY PREDICTING YOUR CAR MODEL!
+## HAPPY PREDICTING YOUR CAR MODEL!
